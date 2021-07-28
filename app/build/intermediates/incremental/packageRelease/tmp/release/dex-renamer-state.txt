@@ -1,0 +1,4 @@
+#Tue Jul 27 19:05:21 COT 2021
+base.0=C\:\\Users\\jhoni\\Downloads\\corte3\\Cristian\\Jhonier2\\TallerMAPAhoteles-main\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
